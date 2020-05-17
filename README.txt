@@ -1,3 +1,8 @@
+# Slovakia average wages in districts
+
+Sources: 
+
+
 Prerequisites:
 
 1) download latest version anaconda (add python to classpath checkbox)
