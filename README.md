@@ -1,7 +1,7 @@
-# Slovakia average wages in districts
+# Slovakia average mothly wages
 
 Sources: 
-
+ - http://statdat.statistics.sk/
 
 Prerequisites:
 
