@@ -1,4 +1,4 @@
-# Slovakia average mothly wages
+# Slovakia average monthly wages in 2009-2018
 
 https://tonykoval.github.io/slovakia-wages-heatmap
 
